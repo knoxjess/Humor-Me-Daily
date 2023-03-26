@@ -96,12 +96,6 @@ From there, you are ready to use the application!
 
 ## Visu![Screenshot 2023-03-26 at 4 35 08 PM](https://user-images.githubusercontent.com/110634800/227806577-234314a3-6f7a-4c4d-9bd8-83dd877b90fe.png)![Screenshot 2023-03-26 at 4 35 32 PM](https://user-images.githubusercontent.com/110634800/227806598-b9aab40e-e453-4fb0-9397-f82ecfb9d2e1.png)
 
-al
-
-
-
-(https://user-images.githubusercontent.com/110634800/227806497-299b2a77-604d-4f01-a3cb-0cd2766d421e.png)
-
 
 ## Questions
 
