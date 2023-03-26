@@ -95,10 +95,11 @@ From there, you are ready to use the application!
 - JavaScript
 
 ## Visual
-![Screenshot 2023-03-26 at 3 37 57 PM](https://user-images.githubusercontent.com/110634800/227803602-835b3fd9-d2ad-4f05-9fab-b642fd8c9d80.png)
-![Screenshot 2023-03-26 at 3 38 16 PM](https://user-images.githubusercontent.com/110634800/227803605-d93421e4-0ddb-4078-b14e-614d164c11ed.png)
-![Screenshot 2023-03-26 at 3 38 54 PM](https://user-images.githubusercontent.com/110634800/227803609-11f6d375-9c4a-41e7-a4aa-7020a39e63ba.png)
-![Screenshot 2023-03-26 at 3 39 34 PM](https://user-images.githubusercontent.com/110634800/227803613-161ec940-1ae8-47f1-bad0-4a900f443b02.png)
+![Screenshot 2023-03-26 at 4 35 08 PM](https://user-images.githubusercontent.com/110634800/227806495-486a2493-a9f6-4c28-a443-a6344ed40be5.png)
+![Screenshot 2023-03-26 at![Screenshot 2023-03-26 at 4 35 32 PM](https://user-images.githubusercontent.com/110634800/227806499-9aa2bb54-1163-4877-9811-aa381f5980a1.png)
+ 4 35 15 PM]![Screenshot 2023-03-26 at 4 35 40 PM](https://user-images.githubusercontent.com/110634800/227806504-e67356f1-543f-4cf2-9b85-f6b505df07fb.png)![Screenshot 2023-03-26 at 4 35 47 PM](https://user-images.githubusercontent.com/110634800/227806508-679e6d07-e0d5-4418-ad9e-1642b9331b73.png)
+
+(https://user-images.githubusercontent.com/110634800/227806497-299b2a77-604d-4f01-a3cb-0cd2766d421e.png)
 
 
 ## Questions
