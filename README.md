@@ -94,10 +94,11 @@ From there, you are ready to use the application!
 - Heroku
 - JavaScript
 
-## Visual
-![Screenshot 2023-03-26 at 4 35 08 PM](https://user-images.githubusercontent.com/110634800/227806495-486a2493-a9f6-4c28-a443-a6344ed40be5.png)
-![Screenshot 2023-03-26 at![Screenshot 2023-03-26 at 4 35 32 PM](https://user-images.githubusercontent.com/110634800/227806499-9aa2bb54-1163-4877-9811-aa381f5980a1.png)
- 4 35 15 PM]![Screenshot 2023-03-26 at 4 35 40 PM](https://user-images.githubusercontent.com/110634800/227806504-e67356f1-543f-4cf2-9b85-f6b505df07fb.png)![Screenshot 2023-03-26 at 4 35 47 PM](https://user-images.githubusercontent.com/110634800/227806508-679e6d07-e0d5-4418-ad9e-1642b9331b73.png)
+## Visu![Screenshot 2023-03-26 at 4 35 08 PM](https://user-images.githubusercontent.com/110634800/227806577-234314a3-6f7a-4c4d-9bd8-83dd877b90fe.png)![Screenshot 2023-03-26 at 4 35 32 PM](https://user-images.githubusercontent.com/110634800/227806598-b9aab40e-e453-4fb0-9397-f82ecfb9d2e1.png)
+
+al
+
+
 
 (https://user-images.githubusercontent.com/110634800/227806497-299b2a77-604d-4f01-a3cb-0cd2766d421e.png)
 
