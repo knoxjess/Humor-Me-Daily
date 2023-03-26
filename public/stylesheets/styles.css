@@ -83,7 +83,7 @@ button:active {
 }
 
 #loggedin {
-  color:rgb(245, 214, 239) ;
+  color:rgb(250, 234, 177) ;
   font-size: 15px;
  
 }
@@ -257,7 +257,7 @@ button:active {
 }
 
 .users-comment {
-  background-color: rgb(245, 198, 236) !important;
+  background-color: rgb(244, 223, 151) !important;
 }
 
 .edit-comment-input {
