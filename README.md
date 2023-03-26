@@ -7,6 +7,7 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Links](#Links)
+- [Visual](#Visual)
 - [Questions](#Questions)
 
 
