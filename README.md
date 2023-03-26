@@ -94,6 +94,9 @@ From there, you are ready to use the application!
 - Heroku
 - JavaScript
 
+
+![Screenshot 2023-03-26 at 4 35 32 PM](https://user-images.githubusercontent.com/110634800/227808176-e1f353d2-1b51-4eb9-aa15-2bb81467adb5.png)
+
 [Untitled_ Mar 26, 2023 5_17 PM.webm](https://user-images.githubusercontent.com/110634800/227808145-18f948f7-9506-430f-b94d-a6ae63531a25.webm)
 
 
