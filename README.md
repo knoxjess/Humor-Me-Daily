@@ -1,5 +1,7 @@
 # Humor-Me-Daily
 
+## live deploy
+https://humor-me-daily.herokuapp.com/
 
 ## Table of Contents
 
