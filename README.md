@@ -79,10 +79,6 @@ npm start
 
 From there, you are ready to use the application!
 
-
-## Links
-
-
 ## USED TECHNOLOGIES
 
 - Node.js
@@ -95,11 +91,6 @@ From there, you are ready to use the application!
 - MySQL2
 - Heroku
 - JavaScript
-
-
-![Screenshot 2023-03-26 at 4 35 32 PM](https://user-images.githubusercontent.com/110634800/227808176-e1f353d2-1b51-4eb9-aa15-2bb81467adb5.png)
-
-
 
 ## Questions
 
